@@ -1,0 +1,11 @@
+*.o
+*.so
+*.rlib
+*.dll
+*.exe
+*.bak
+Cargo.lock
+
+
+target
+
